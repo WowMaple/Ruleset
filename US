@@ -1,6 +1,9 @@
 # PayPal
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,hcaptcha
+DOMAIN-KEYWORD,recaptcha.net
+DOMAIN-KEYWORD,gstatic.com
+DOMAIN-KEYWORD,browser-intake-us5-datadoghq.com
 
 # T-Mobile
 DOMAIN-KEYWORD,t-mobile
@@ -10,6 +13,15 @@ DOMAIN-KEYWORD,jibecloud
 DOMAIN-KEYWORD,3gppnetwork
 DOMAIN-KEYWORD,telephony.goog
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,signalfx.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,pzapi-kg.com
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,quantummetric.com
+DOMAIN,d3nogy11zk4v1m.cloudfront.net
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,adobedtm.com
 
 # Google
 DOMAIN-KEYWORD,gmail
