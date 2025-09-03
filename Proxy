@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+
+IP-CIDR,5.28.195.1/32,no-resolve
