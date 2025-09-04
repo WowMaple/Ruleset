@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,hcaptcha
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,onesec.net
 
 # T-Mobile
 DOMAIN-KEYWORD,t-mobile
