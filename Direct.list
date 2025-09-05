@@ -36,12 +36,14 @@ DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 
 # 自定义
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,apple
-DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,jd.com
-DOMAIN-KEYWORD,alipay
+DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,meituan.net
