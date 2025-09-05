@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,tplogin.cn
 # 自定义
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
