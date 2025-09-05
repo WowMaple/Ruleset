@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
+
+# 自定义
+DOMAIN-SUFFIX,microsoft.com
