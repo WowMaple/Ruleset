@@ -36,6 +36,6 @@ DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 
 # 自定义
-DOMAIN-SUFFIX,microsoft
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
