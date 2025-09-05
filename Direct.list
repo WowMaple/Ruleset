@@ -43,4 +43,5 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,jd.com
-
+DOMAIN-KEYWORD,alipay
+DOMAIN-SUFFIX,mi.com
