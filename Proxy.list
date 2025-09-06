@@ -15,6 +15,11 @@ DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
 
+# Oracle
+DOMAIN-KEYWORD,oracle
+DOMAIN-SUFFIX,google.cn
+DOMAIN,clients3.google.com
+
 
 # 其它域名
 DOMAIN-SUFFIX,ucloud140.xyz
