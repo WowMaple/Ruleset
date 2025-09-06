@@ -35,6 +35,10 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-KEYWORD,tencent
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,weixinbridge.com
+
 
 # 百度
 DOMAIN-KEYWORD,baidu
