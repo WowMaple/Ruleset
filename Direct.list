@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,ugsdk.cn
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,volceapplog.com
 
 # 快手
 DOMAIN-KEYWORD,kuaishou
@@ -234,6 +235,8 @@ DOMAIN-SUFFIX,hkbea.com.cn
 DOMAIN-KEYWORD,citicbank
 DOMAIN-SUFFIX,pbcdci.cn
 DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,cup.com.cn
 
 # 航空公司
 DOMAIN-KEYWORD,csair
