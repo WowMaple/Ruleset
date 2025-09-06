@@ -112,6 +112,11 @@ DOMAIN-KEYWORD,walmart
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 
+#  LinkedIn
+DOMAIN-KEYWORD,linkedin
+DOMAIN-KEYWORD,licdn
+
+
 # 其它
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,harness.io
