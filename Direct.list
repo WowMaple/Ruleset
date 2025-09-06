@@ -21,6 +21,7 @@ IP-CIDR6,fd00::/8,no-resolve
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
 
 # 微软
 DOMAIN-KEYWORD,microsoft
