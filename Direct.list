@@ -41,6 +41,7 @@ DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,msftauth
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,azure.com
