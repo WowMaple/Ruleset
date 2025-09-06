@@ -1,17 +1,12 @@
 # Youtube & Youtube Music
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN,yt3.ggpht.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtu.be
+
+
 
 # Google Drive
 DOMAIN,drive.google.com
