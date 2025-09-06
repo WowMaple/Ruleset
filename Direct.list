@@ -51,8 +51,9 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-SUFFIX,jd.com
 
 # 小米
-DOMAIN-SUFFIX,mi.com
+DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,miui
+DOMAIN-SUFFIX,mi.com
 
 # 美团
 DOMAIN-KEYWORD,meituan
