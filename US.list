@@ -112,3 +112,5 @@ DOMAIN-KEYWORD,walmart
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 
+# 其它
+DOMAIN-SUFFIX,split.io
