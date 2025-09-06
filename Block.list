@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,adintl.cn
 DOMAIN-SUFFIX,mentamob.com
 DOMAIN-SUFFIX,advlion.com
-DOMAIN-SUFFIX,umeng.com
+
 DOMAIN-SUFFIX,6sc.co
 DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,clearbitscripts.com
@@ -16,16 +16,19 @@ DOMAIN-SUFFIX,randy24.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
 
-# 阿里广告
+# 阿里相关
 DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 
 # Outlook相关
 DOMAIN-SUFFIX,singular.net
 
 
-# 百度地图相关
+# 百度相关
 DOMAIN-KEYWORD,qchannel
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,1rtb.net
 DOMAIN-SUFFIX,1rtb.com
 DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,vlion.cn
