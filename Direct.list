@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,1rtb.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,adintl.cn
+DOMAIN-SUFFIX,mentamob.com
+DOMAIN-SUFFIX,advlion.com
 
 # 腾讯广告
 DOMAIN-SUFFIX,ugdtimg.com
@@ -60,6 +62,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.cn
 
 
 
@@ -68,6 +71,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,bcebos
 DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,nuomi.com
+
+# 乐播
+DOMAIN-KEYWORD,hpplay
 
 # 阿里
 DOMAIN-KEYWORD,alibaba
@@ -77,10 +84,12 @@ DOMAIN-KEYWORD,alipan
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,aliapp
+DOMAIN-KEYWORD,shuqireader
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,amap.com
+
 
 DOMAIN-SUFFIX,tmall.com
 
@@ -110,6 +119,10 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,miinsurtech.com
+jpush.cn
+jpush.io
+getui.com
+miot-spec.org
 
 # 美团
 DOMAIN-KEYWORD,meituan
@@ -169,15 +182,16 @@ DOMAIN-SUFFIX,vpal.com
 
 
 # 优酷
-DOMAIN-SUFFIX,youku.com
+DOMAIN-KEYWORD,youku
 
 # 豆瓣
-DOMAIN-SUFFIX,douban.com
+DOMAIN-KEYWORD,douban
 
 # 滴滴
 DOMAIN-KEYWORD,diditaxi
 DOMAIN-KEYWORD,xiaojukeji
 DOMAIN-KEYWORD,didistatic
+udache.com
 
 # 12306
 DOMAIN-SUFFIX,12306.cn
@@ -187,6 +201,7 @@ DOMAIN-KEYWORD,umetrip
 
 # 携程
 DOMAIN-KEYWORD,ctrip
+tripcdn.cn
 
 # 中国政府
 DOMAIN-SUFFIX,gov.cn
@@ -201,6 +216,7 @@ DOMAIN-KEYWORD,xhscdn
 
 # 网易
 DOMAIN-SUFFIX,126.net
+163.com
 
 # 银行
 DOMAIN-SUFFIX,cmbchina
