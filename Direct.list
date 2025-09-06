@@ -237,6 +237,7 @@ DOMAIN-SUFFIX,pbcdci.cn
 DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,ecitic.com
 
 # 航空公司
 DOMAIN-KEYWORD,csair
@@ -245,6 +246,7 @@ DOMAIN-KEYWORD,csair
 DOMAIN-KEYWORD,termius
 
 # Other
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,5208899.xyz
 DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,digicert.cn
+
