@@ -1,6 +1,5 @@
 # 广告
 DOMAIN-SUFFIX,singular.net
-DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,adintl.cn
 DOMAIN-SUFFIX,mentamob.com
 DOMAIN-SUFFIX,advlion.com
@@ -21,7 +20,8 @@ DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,tanx.com
 
 # 百度地图相关
+DOMAIN-KEYWORD,qchannel
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,1rtb.net
 DOMAIN-SUFFIX,1rtb.com
-DOMAIN-KEYWORD,qchannel
+DOMAIN-SUFFIX,beizi.biz
