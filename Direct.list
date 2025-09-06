@@ -17,11 +17,12 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
-# 自定义
+# 苹果
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
 
+# 微软
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,outlook
@@ -30,19 +31,24 @@ DOMAIN-SUFFIX,.ms
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,trafficmanager.net
 
-
+# 腾讯
 DOMAIN-KEYWORD,tencent
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
 
+# 百度
 DOMAIN-KEYWORD,baidu
 
+# 阿里
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alipay
 
+# 京东
 DOMAIN-SUFFIX,jd.com
 
+# 小米
 DOMAIN-SUFFIX,mi.com
 DOMAIN-KEYWORD,miui
 
+# 美团
 DOMAIN-KEYWORD,meituan
