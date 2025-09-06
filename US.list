@@ -1,33 +1,38 @@
-# PayPal
-DOMAIN-KEYWORD,paypal
-DOMAIN-KEYWORD,datadoghq
-DOMAIN-KEYWORD,hcaptcha
-DOMAIN-SUFFIX,onesec.net
-DOMAIN-KEYWORD,revenuecat.com
-
 # OpenAi
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,oaistatic
+DOMAIN-KEYWORD,oaiusercontent
+DOMAIN-SUFFIX,sora.com
+
+# OpenAi相关域名？
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,sora.com
+
+
+# PayPal
+DOMAIN-KEYWORD,paypal
+
+# PayPal相关域名？
+DOMAIN-KEYWORD,datadoghq
+DOMAIN-KEYWORD,hcaptcha
+DOMAIN-SUFFIX,onesec.net
+DOMAIN-KEYWORD,revenuecat.com
+
 
 # T-Mobile
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
-DOMAIN-KEYWORD,t-mo
+
+# T-Mobile相关域名？
 DOMAIN-KEYWORD,jibecloud
 DOMAIN-KEYWORD,3gppnetwork
 DOMAIN-KEYWORD,telephony.goog
@@ -43,8 +48,8 @@ DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,adobedtm.com
 
 # Google
-DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,recaptcha.net
@@ -62,30 +67,24 @@ IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
 # X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,twimg
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
 
 # Meta
-DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,fackbook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,instagram
-
-# Amazon
-DOMAIN-KEYWORD,amazon
-
-# WaltMart
-DOMAIN-KEYWORD,walmart
-
-# Claude
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,anthropic
-
-
-# Whatsapp
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,wspic.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+
+# whatapp地址段？
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -101,3 +100,14 @@ IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
+
+# Amazon
+DOMAIN-KEYWORD,amazon
+
+# WaltMart
+DOMAIN-KEYWORD,walmart
+
+# Anthropic
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
