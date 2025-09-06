@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,onesec.net
+DOMAIN-KEYWORD,revenuecat.com
 
 # OpenAi
 DOMAIN-KEYWORD,openai
