@@ -24,8 +24,10 @@ DOMAIN-SUFFIX,ntp.org
 # 苹果
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,aaplimg
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+
 
 # 微软
 DOMAIN-KEYWORD,microsoft
