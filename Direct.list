@@ -46,6 +46,7 @@ DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,sharepoint
 DOMAIN-SUFFIX,.ms
 DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,trafficmanager.net
 
 
 DOMAIN-KEYWORD,tencent
