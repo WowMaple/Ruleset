@@ -17,6 +17,16 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
+# 广告
+DOMAIN-SUFFIX,singular.net
+
+# 腾讯广告
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,gdtimg.com
+
+# 时间
+DOMAIN-SUFFIX,ntp.org
+
 # 苹果
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
@@ -44,35 +54,53 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,weixinbridge.com
 
-
 # 百度
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,bcebos
+DOMAIN-SUFFIX,bdimg.com
 
 # 阿里
+DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,dingtalk
+DOMAIN-KEYWORD,alipan
 DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,alidns.com
-DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,amap.com
 
 # 京东
 DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
 
 # 小米
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,miui
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mipay.com
+DOMAIN-SUFFIX,mijia.tech
 
 # 美团
 DOMAIN-KEYWORD,meituan
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,neixin.cn
 
 # 同花顺
 DOMAIN-KEYWORD,10jqka
 DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,thsi.cn
 DOMAIN-SUFFIX,123ths.com
+DOMAIN-SUFFIX,hxkba.com
+DOMAIN-SUFFIX,touzime.com
+
+# 东方财富
+DOMAIN-KEYWORD,eastmoney
+DOMAIN-SUFFIX,18.cn
 
 # 夸克
 DOMAIN-KEYWORD,quark
@@ -90,12 +118,54 @@ DOMAIN-SUFFIX,hdslb.com
 
 # 新浪
 DOMAIN-KEYWORD,weibo
-DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-KEYWORD,sina
 
 # 字节
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,byteimg.com
+DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,bytecdn
+DOMAIN-KEYWORD,byteimg
+DOMAIN-KEYWORD,doubao
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,snssdk
+
+# 快手
+DOMAIN-KEYWORD,kuaishou
+
+# 拼多多
+DOMAIN-KEYWORD,pinduoduo
+
+# 唯品会
+DOMAIN-SUFFIX,appvipshop.com
+DOMAIN-SUFFIX,vip.com
+
+# 优酷
+DOMAIN-SUFFIX,youku.com
+
+# 豆瓣
+DOMAIN-SUFFIX,douban.com
+
+# 滴滴
+DOMAIN-KEYWORD,diditaxi
+DOMAIN-KEYWORD,xiaojukeji
+DOMAIN-KEYWORD,didistatic
+
+# 12306
+DOMAIN-SUFFIX,12306.cn
+
+# 航旅纵横
+DOMAIN-KEYWORD,umetrip
+
+# 携程
+DOMAIN-KEYWORD,ctrip
+
+# 中国政府
+DOMAIN-SUFFIX,gov.cn
+
+# 运营商
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,189.cn
+
+# 小红书
+DOMAIN-KEYWORD,xiaohongshu
+DOMAIN-KEYWORD,xhscdn
