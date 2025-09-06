@@ -117,6 +117,8 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,getui.com
 
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,mi-fds.com
 
 # 美团
 DOMAIN-KEYWORD,meituan
