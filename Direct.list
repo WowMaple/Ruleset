@@ -29,9 +29,12 @@ DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,sharepoint
 DOMAIN-KEYWORD,visualstudio
+DOMAIN-KEYWORD,vscode-cdn
 DOMAIN-SUFFIX,.ms
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,exp-tas.com
+DOMAIN-SUFFIX,azure.com
 
 # 腾讯
 DOMAIN-KEYWORD,tencent
