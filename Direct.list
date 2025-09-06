@@ -47,11 +47,15 @@ DOMAIN-SUFFIX,weixinbridge.com
 
 # 百度
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,bdstatic
+DOMAIN-KEYWORD,bcebos
 
 # 阿里
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alipay
 DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alibabausercontent.com
 
 # 京东
 DOMAIN-SUFFIX,jd.com
@@ -83,3 +87,15 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,hdslb.com
+
+# 新浪
+DOMAIN-KEYWORD,weibo
+DOMAIN-SUFFIX,sinaimg.cn
+
+# 字节
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,byteimg.com
