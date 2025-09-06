@@ -230,6 +230,9 @@ DOMAIN-SUFFIX,hkbea.com.cn
 DOMAIN-KEYWORD,citicbank
 DOMAIN-SUFFIX,pbcdci.cn
 
+# 航空公司
+DOMAIN-KEYWORD,csair
+
 # Termius
 DOMAIN-KEYWORD,termius
 
