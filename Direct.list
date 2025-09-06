@@ -159,6 +159,12 @@ DOMAIN-KEYWORD,snssdk
 DOMAIN-KEYWORD,bytedance
 DOMAIN-KEYWORD,oceancloudapi
 
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,ugsdk.cn
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,volcvideo.com
+
 # 快手
 DOMAIN-KEYWORD,kuaishou
 
