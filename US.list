@@ -1,9 +1,7 @@
 # PayPal
 DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,datadoghq
 DOMAIN-KEYWORD,hcaptcha
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,onesec.net
 DOMAIN-KEYWORD,revenuecat.com
 
@@ -47,22 +45,19 @@ DOMAIN-SUFFIX,adobedtm.com
 # Google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,gstatic
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,app-analytics-services.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
@@ -73,23 +68,23 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,twimg
 
 # Meta
+DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,fackbook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
 
 # Amazon
 DOMAIN-KEYWORD,amazon
 
 # WaltMart
-DOMAIN-SUFFIX,walmart.com
+DOMAIN-KEYWORD,walmart
 
 # Claude
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 
 
-# 内容：Whatsapp
+# Whatsapp
 DOMAIN-KEYWORD,whatsapp
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
