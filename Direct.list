@@ -55,10 +55,12 @@ DOMAIN-SUFFIX,azure.com
 # 腾讯
 DOMAIN-KEYWORD,tencent
 DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,wechatpay
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
+
 
 
 # 百度
