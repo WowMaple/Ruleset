@@ -19,10 +19,16 @@ IP-CIDR6,fd00::/8,no-resolve
 
 # 广告
 DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,1rtb.com
+DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,adintl.cn
 
 # 腾讯广告
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
+
+# 阿里广告
+DOMAIN-SUFFIX,tanx.com
 
 # 时间
 DOMAIN-SUFFIX,ntp.org
@@ -67,14 +73,30 @@ DOMAIN-KEYWORD,dingtalk
 DOMAIN-KEYWORD,alipan
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,aliapp
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,amap.com
 
+DOMAIN-SUFFIX,tmall.com
+
+DOMAIN-SUFFIX,ele.me
+
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,ucweb.com
+
+DOMAIN-KEYWORD,quark
+
+DOMAIN-SUFFIX,mybank.cn
+
 # 京东
 DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,djygold.com
+DOMAIN-SUFFIX,tjjt360.com
 
 # 小米
 DOMAIN-KEYWORD,xiaomi
@@ -84,6 +106,7 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miinsurtech.com
 
 # 美团
 DOMAIN-KEYWORD,meituan
@@ -101,18 +124,15 @@ DOMAIN-SUFFIX,touzime.com
 # 东方财富
 DOMAIN-KEYWORD,eastmoney
 DOMAIN-SUFFIX,18.cn
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,dflcs.com.cn
+DOMAIN-SUFFIX,emhudong.cn
 
-# 夸克
-DOMAIN-KEYWORD,quark
-
-# UC
-DOMAIN-SUFFIX,uc.cn
-DOMAIN-SUFFIX,effirst.com
 
 # Bilibili
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,biliapi
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,hdslb.com
 
@@ -128,16 +148,22 @@ DOMAIN-KEYWORD,byteimg
 DOMAIN-KEYWORD,doubao
 DOMAIN-KEYWORD,zijieapi
 DOMAIN-KEYWORD,snssdk
+DOMAIN-KEYWORD,bytedance
+DOMAIN-KEYWORD,oceancloudapi
 
 # 快手
 DOMAIN-KEYWORD,kuaishou
 
 # 拼多多
 DOMAIN-KEYWORD,pinduoduo
+DOMAIN-KEYWORD,pddpic
 
 # 唯品会
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,vpal.com
+
 
 # 优酷
 DOMAIN-SUFFIX,youku.com
@@ -172,3 +198,17 @@ DOMAIN-KEYWORD,xhscdn
 
 # 网易
 DOMAIN-SUFFIX,126.net
+
+# 银行
+DOMAIN-SUFFIX,cmbchina
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,hkbea.com.cn
+DOMAIN-SUFFIX,citicbank.cn
+DOMAIN-SUFFIX,pbcdci.cn
