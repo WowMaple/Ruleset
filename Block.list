@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,gdtimg.com
 # 阿里广告
 DOMAIN-SUFFIX,tanx.com
 
+# Outlook相关
+DOMAIN-SUFFIX,singular.net
+
+
 # 百度地图相关
 DOMAIN-KEYWORD,qchannel
 DOMAIN-SUFFIX,ubixioe.com
