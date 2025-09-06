@@ -102,6 +102,9 @@ IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
 
+# Oracle
+DOMAIN-KEYWORD,oracle
+
 # Amazon
 DOMAIN-KEYWORD,amazon
 
