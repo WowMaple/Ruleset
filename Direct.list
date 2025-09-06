@@ -76,3 +76,10 @@ DOMAIN-KEYWORD,quark
 # UC
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,effirst.com
+
+# Bilibili
+DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,hdslb.com
