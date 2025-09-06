@@ -244,6 +244,9 @@ DOMAIN-SUFFIX,hkbea.com.cn
 DOMAIN-KEYWORD,citicbank
 DOMAIN-SUFFIX,pbcdci.cn
 
+# Termius
+DOMAIN-KEYWORD,termius
+
 # Other
 DOMAIN-SUFFIX,5208899.xyz
 DOMAIN-SUFFIX,upaiyun.com
