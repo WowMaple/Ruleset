@@ -19,6 +19,9 @@ DOMAIN,d36jcksde1wxzq.cloudfront.net
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,google.cn
 
+# OneDrive
+DOMAIN,onedrive.live.com
+
 # 其它域名
 DOMAIN-SUFFIX,ucloud140.xyz
 DOMAIN-SUFFIX,jiuse3.cloud
