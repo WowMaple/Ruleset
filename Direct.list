@@ -38,6 +38,7 @@ DOMAIN-KEYWORD,sharepoint
 DOMAIN-KEYWORD,visualstudio
 DOMAIN-KEYWORD,vscode-cdn
 DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,msftauth
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,trafficmanager.net
