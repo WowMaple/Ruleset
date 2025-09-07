@@ -111,6 +111,7 @@ DOMAIN-KEYWORD,walmart
 # Anthropic
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,siftscience
 
 #  LinkedIn
 DOMAIN-KEYWORD,linkedin
