@@ -27,6 +27,7 @@ DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,aaplimg
 DOMAIN-KEYWORD,mzstatic
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,appstore.com
 
 
 
@@ -65,6 +66,7 @@ DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,bcebos
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,nuomi.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # 乐播
 DOMAIN-KEYWORD,hpplay
