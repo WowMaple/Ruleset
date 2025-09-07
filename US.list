@@ -17,6 +17,16 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 
+DOMAIN,api.statsig.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,cdn.cloudflare.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,segment.io
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,45.76.214.191/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,143.198.200.27/32,no-resolve
+IP-CIDR,159.89.204.203/32,no-resolve
 
 # PayPal
 DOMAIN-KEYWORD,paypal
@@ -66,6 +76,12 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
+
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-KEYWORD,android
+DOMAIN-KEYWORD,chrome
+DOMAIN-KEYWORD,chromium
+DOMAIN-KEYWORD,telephony.goog
 
 # X(Twitter)
 DOMAIN-KEYWORD,twitter
