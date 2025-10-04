@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,ucloud140.xyz
 DOMAIN-SUFFIX,jiuse3.cloud
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,staticstack.net
+DOMAIN-SUFFIX,modelmediaasia.com
 
 # 其它IP
 IP-CIDR,5.28.195.1/32,no-resolve
