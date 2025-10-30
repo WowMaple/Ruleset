@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,google.cn
 DOMAIN,onedrive.live.com
 
 # 其它域名
-DOMAIN-SUFFIX,ucloud140.xyz
+DOMAIN-KEYWORD,ucloud
 DOMAIN-SUFFIX,jiuse3.cloud
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,staticstack.net
