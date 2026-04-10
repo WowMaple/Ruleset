@@ -3,24 +3,12 @@
   "rules": [
     {
       "domain_keyword": [
-        "youtube",
-        "",
-        "",
-        "",
-        ""
+        "youtube"
       ],
       "domain_suffix": [
         "ytimg.com",
         "googlevideo.com",
-        "youtu.be",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "youtu.be"
       ],
       "domain": [
         "yt3.ggpht.com"
