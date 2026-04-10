@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_keyword": [
-        "youtube"
       ],
       "domain_suffix": [
         "ytimg.com",
