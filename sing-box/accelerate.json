@@ -1,1 +1,30 @@
-
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "youtube",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "domain_suffix": [
+        "ytimg.com",
+        "googlevideo.com",
+        "youtu.be",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "domain": [
+        "yt3.ggpht.com"
+      ]
+    }
+  ]
+}
