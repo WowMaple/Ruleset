@@ -3,10 +3,11 @@
   "rules": [
     {
       "domain_keyword": [
+        "oracle",
+        "googlevideo"
       ],
       "domain_suffix": [
         "ytimg.com",
-        "googlevideo.com",
         "youtu.be",
         "bulianglin.com",
         "renzhe.cloud",
