@@ -3,27 +3,10 @@
   "rules": [
     {
       "domain_keyword": [
-        "oracle",
-        "googlevideo",
-        "cililianjie",
-        "cilisousuo"
       ],
       "domain_suffix": [
-        "ytimg.com",
-        "youtu.be",
-        "bulianglin.com",
-        "renzhe.cloud",
-        "ncnwiki.com",
-        "openwrt.org",
-        "ip2up.com",
-        "ip2world.com",
-        "cloudflare.com",
-        "ip.sb",
-        "npmjs.org",
-        "playwright.dev"
       ],
       "domain": [
-        "yt3.ggpht.com"
       ]
     }
   ]
