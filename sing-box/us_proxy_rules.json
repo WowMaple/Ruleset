@@ -3,43 +3,10 @@
   "rules": [
     {
       "domain_keyword": [
-        "t-mobile",
-        "tmobile",
-        "jibecloud",
-        "3gppnetwork",
-        "telephony.goog"
       ],
       "domain_suffix": [
-        "twitter.com",
-        "ads-twitter.com",
-        "autonavi.com",
-        "signalfx.com",
-        "digicert.com",
-        "liveperson.net",
-        "pzapi-kg.com",
-        "lpsnmedia.net",
-        "quantummetric.com",
-        "cookielaw.org",
-        "adobedtm.com",
-        "sentry.io",
-        "split.io",
-        "wa.me",
-        "whatsapp-plus.info",
-        "whatsapp-plus.me",
-        "whatsapp-plus.net",
-        "whatsapp.cc",
-        "whatsapp.com",
-        "whatsapp.info",
-        "whatsapp.net",
-        "whatsapp.org",
-        "whatsapp.tv",
-        "whatsappbrand.com",
-        "graph.whatsapp.com",
-        "graph.whatsapp.net",
-        "war.gov"
       ],
       "domain": [
-        "d3nogy11zk4v1m.cloudfront.net"
       ]
     }
   ]
