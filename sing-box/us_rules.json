@@ -9,7 +9,9 @@
         "example.com"
       ],
       "domain_keyword": [
-        "example"
+        "paypal",
+        "tmobile",
+        "t-mobile"
       ]
     }
   ]
