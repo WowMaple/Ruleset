@@ -2,11 +2,12 @@
   "version": 3,
   "rules": [
     {
+            "domain": [
+        "api.example.com"
+      ]
       "domain_keyword": [
       ],
       "domain_suffix": [
-      ],
-      "domain": [
       ]
     }
   ]
