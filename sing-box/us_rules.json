@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "api.example.com"
+      ],
+      "domain_suffix": [
+        "example.com"
+      ],
+      "domain_keyword": [
+        "example"
+      ]
+    }
+  ]
+}
