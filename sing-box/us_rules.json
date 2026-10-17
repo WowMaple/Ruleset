@@ -6,12 +6,26 @@
         "api.example.com"
       ],
       "domain_suffix": [
-        "example.com"
+        "x.com"
       ],
       "domain_keyword": [
         "paypal",
         "tmobile",
-        "t-mobile"
+        "t-mobile",
+        "google",
+        "gmail",
+        "youtube",
+        "twitter",
+        "openai",
+        "chatgpt",
+        "meta",
+        "muse",
+        "facbook",
+        "threads",
+        "instagram",
+        "whatsapp",
+        "telegram",
+        "reddit"
       ]
     }
   ]
