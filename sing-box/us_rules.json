@@ -5,9 +5,11 @@
       "domain": [
         "mask.icloud.com",
         "mask-h2.icloud.com",
-        "mask-api.icloud.com"
+        "mask.apple-dns.net",
+        "mask-api.icloud.com",
       ],
       "domain_suffix": [
+        "apple-dns.net",
         "x.com"
       ],
       "domain_keyword": [
