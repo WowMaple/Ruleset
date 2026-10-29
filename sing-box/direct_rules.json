@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "api.example.com"
+        "macinfo1.123ths.com"
       ],
       "domain_suffix": [
         "123ths.com"
