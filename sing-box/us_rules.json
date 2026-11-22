@@ -6,7 +6,8 @@
         "www.paypal.com"
       ],
       "domain_suffix": [
-        "x.com"
+        "x.com",
+        "live.com"
       ],
       "domain_keyword": [
         "paypal",
